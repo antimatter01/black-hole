@@ -70,7 +70,7 @@ var Detector = {
 
 };
 
-// browserify support
+// browserify support  
 if ( typeof module === 'object' ) {
 
 	module.exports = Detector;
