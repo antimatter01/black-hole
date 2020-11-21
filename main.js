@@ -1,5 +1,5 @@
 "use strict"
-/*global THREE, SHADER_LOADER, Mustache, Stats, Detector, $, dat:false */
+/*global THREE, SHADER_LOADER, Mustache, Stats, Detector,  */
 /*global document, window, setTimeout, requestAnimationFrame:false */
 /*global ProceduralTextures:false */
 
