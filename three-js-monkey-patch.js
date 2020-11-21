@@ -1,4 +1,4 @@
-/* why is this not there in the first place :( */
+/* why is this not there in the first place :(  */
 THREE.Matrix3.prototype.multiply = function(another_matrix) {
     var b = another_matrix.elements;
     var a = this.elements;
